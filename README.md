@@ -3,14 +3,14 @@ ir jų analizavimui, įskaitant rūšiavimą, grupavimą, bei išvedimą į skir
 Apskaičiuojamas vidurkis ir mediana, studentai išrušiuojami pagal didėjantį/mažėjantį 
 vidurkį ir suskirstomi į kategorijas "kietiakai" ir "vargšiai".
 
-| 1000 studentu         | Vektorius  | Listas     | 
-|-----------------------|------------|------------|
-| Failo nuskaitymas     | 0.00506 s  | 0.XX s     |
-| Rūšiavimas            | 0.00015 s  | 0.XX s     |
-| Dalijimas į grupes    | 0.00023 s  | 0.XX s     |
-| Vargšių išsaugojimas  | 0.00498 s  | 0.XX s     |
-| Kietekų išsaugojimas  | 0.00204 s  | 0.XX s     |
-| Bendras laikas        | 1.50272 s  | 0.XX s     |
+| 1000 studentu         | Vektorius  | Listas     |   | 10000 studentu        | Vektorius  | Listas     |
+|-----------------------|------------|------------|   |-----------------------|------------|------------|
+| Failo nuskaitymas     | 0.00506 s  | 0.XX s     |   | Failo nuskaitymas     | 0.02669 s  | 0.XX s     |
+| Rūšiavimas            | 0.00015 s  | 0.XX s     |   | Rūšiavimas            | 0.00082 s  | 0.XX s     |
+| Dalijimas į grupes    | 0.00023 s  | 0.XX s     |   | Dalijimas į grupes    | 0.00087 s  | 0.XX s     |
+| Vargšių išsaugojimas  | 0.00498 s  | 0.XX s     |   | Vargšių išsaugojimas  | 0.01624 s  | 0.XX s     |
+| Kietekų išsaugojimas  | 0.00204 s  | 0.XX s     |   | Kietekų išsaugojimas  | 0.01561 s  | 0.XX s     |
+| Bendras laikas        | 1.50272 s  | 0.XX s     |   | Bendras laikas        | 1.03115 s  | 0.XX s     |
 
 
 | 10000 studentu        | Vektorius  | Listas     |
