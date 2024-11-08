@@ -63,7 +63,7 @@ NAUDOJANT VEKTORIUS (3 strategija paremta 1 strategija)
 | Kietekų išsaugojimas  | 23.9737 s  | 17.71 s    | 16.5767 s  |
 | Bendras laikas        | 233.74 s   | 1892.64 s  | 72.3017 s  |
 
-NAUDOJANT LISTUS ( 3 strategija paremta 2 strategija)
+NAUDOJANT LISTUS ( 3 strategija paremta 1 strategija)
 
 | 1000 studentų         | 1strat.    | 2strat.    | 3strat.    |
 |-----------------------|------------|------------|------------|
